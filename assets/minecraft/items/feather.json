@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/paper"
+      "model": "minecraft:item/feather"
     },
     "entries": [
       {
