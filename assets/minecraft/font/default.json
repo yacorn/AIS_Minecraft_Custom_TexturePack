@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "": -1,
+        "": -2,
+        "": -4,
+        "": -8,
+        "": -16,
+        "": -32,
+        "": -64,
+        "": -128
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/main_menu_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

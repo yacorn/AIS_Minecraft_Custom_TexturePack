@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "supported_formats": [
+      15,
+      60
+    ],
+    "description": "§b[AIS-Server] §f공식 커스텀 GUI 리소스팩 v1.0.0"
+  }
+}
