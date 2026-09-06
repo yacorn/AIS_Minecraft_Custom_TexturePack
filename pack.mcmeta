@@ -3,8 +3,16 @@
     "pack_format": 46,
     "supported_formats": [
       15,
-      60
+      99
     ],
-    "description": "§b[AIS-Server] §f공식 커스텀 GUI 리소스팩 v1.0.0"
+    "min_format": [
+      15,
+      0
+    ],
+    "max_format": [
+      99,
+      0
+    ],
+    "description": "§b[AIS-Server] §f공식 커스텀 GUI & 요리/작물 리소스팩 v1.5.0"
   }
 }

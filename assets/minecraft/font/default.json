@@ -21,6 +21,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/guide_menu_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
