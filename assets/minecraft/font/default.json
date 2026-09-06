@@ -1,6 +1,21 @@
 {
   "providers": [
     {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/default",
+      "filter": {
+        "uniform": false
+      }
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/unifont"
+    },
+    {
       "type": "space",
       "advances": {
         "": -1,
@@ -29,6 +44,60 @@
       "height": 166,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/rules_menu_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/guide_farm_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/guide_brew_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/guide_grave_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/guide_tips_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/custom/motion_menu_bg.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        ""
       ]
     }
   ]
